@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Worker" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.gps.worker.Main" />
+    <module name="gps-cabeleireiro" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
